@@ -1,0 +1,42 @@
+.navbar {
+    background-color: #163260 !important;
+}
+
+.carousel-caption {
+    margin-bottom: 100px;
+}
+
+.carousel-caption h3 {
+    color: whitesmoke;
+    font-size: 45px;
+}
+
+.carousel-caption p {
+    font-size: 20px;
+}
+
+.col h3 {
+    text-align: center;
+}
+
+.col p {
+    text-align: justify;
+}
+
+.col-12 h1 {
+    text-align: center;
+}
+
+.espacoBranco {
+    background-color: #163260;
+    height: 100px;
+}
+
+#footer {
+    margin-top: 10px;
+}
+
+#footer p {
+    margin-top: 10px;
+    color: white;
+}
